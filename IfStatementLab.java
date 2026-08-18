@@ -58,7 +58,7 @@ System.out.println();
         }
 System.out.println();
   // Even or Odd Number
-       System.out.print("Enter an integer: ");
+       System.out.println("Enter an integer: ");
         int number = input.nextInt();
 
         if (number % 2 == 0) {
